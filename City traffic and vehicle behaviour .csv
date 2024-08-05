@@ -1,0 +1,37 @@
+City,Vehicle Type,Weather,Economic Condition,Day Of Week,Hour Of Day,Speed,Is Peak Hour,Random Event Occurred,Energy Consumption,Traffic Density,Modifed 12 hour format 
+New York,Car,Sunny,Stable,Monday,8,60,TRUE,FALSE,50,Medium,8 AM
+New York,Car,Sunny,Stable,Monday,12,55,TRUE,FALSE,48,High,12 PM
+New York,Bus,Rainy,Stable,Tuesday,16,40,FALSE,FALSE,60,High,4 PM
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,65,FALSE,FALSE,45,Low,10 AM
+Los Angeles,Car,Sunny,Stable,Thursday,18,50,TRUE,TRUE,55,Medium,6 PM
+Los Angeles,Truck,Rainy,Declining,Friday,14,35,FALSE,FALSE,70,High,2 PM
+Chicago,Car,Snowy,Stable,Saturday,9,45,FALSE,FALSE,42,Medium,9 AM
+Chicago,Car,Sunny,Growing,Sunday,13,55,TRUE,FALSE,47,Low,1 PM
+Chicago,Bus,Cloudy,Growing,Monday,17,30,TRUE,FALSE,65,High,5 PM
+New York,Car,Sunny,Stable,Monday,8,58,TRUE,FALSE,52,Medium,8 AM
+New York,Car,Sunny,Stable,Monday,12,56,TRUE,FALSE,47,High,12 PM
+New York,Bus,Rainy,Stable,Tuesday,16,42,FALSE,FALSE,58,High,4 PM
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,64,FALSE,FALSE,47,Low,10 AM
+Los Angeles,Car,Sunny,Stable,Thursday,18,52,TRUE,TRUE,53,Medium,6 PM
+Los Angeles,Truck,Rainy,Declining,Friday,14,38,FALSE,FALSE,68,High,2 PM
+Chicago,Car,Snowy,Stable,Saturday,9,43,FALSE,FALSE,40,Medium,9 AM
+Chicago,Car,Sunny,Growing,Sunday,13,54,TRUE,FALSE,49,Low,1 PM
+Chicago,Bus,Cloudy,Growing,Monday,17,32,TRUE,FALSE,63,High,5 PM
+New York,Car,Sunny,Stable,Monday,8,57,TRUE,FALSE,48,Medium,8 AM
+New York,Car,Sunny,Stable,Monday,12,54,TRUE,FALSE,46,High,12 PM
+New York,Bus,Rainy,Stable,Tuesday,16,38,FALSE,FALSE,56,High,4 PM
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,63,FALSE,FALSE,44,Low,10 AM
+Los Angeles,Car,Sunny,Stable,Thursday,18,48,TRUE,TRUE,52,Medium,6 PM
+Los Angeles,Truck,Rainy,Declining,Friday,14,36,FALSE,FALSE,66,High,2 PM
+Chicago,Car,Snowy,Stable,Saturday,9,41,FALSE,FALSE,43,Medium,9 AM
+Chicago,Car,Sunny,Growing,Sunday,13,53,TRUE,FALSE,45,Low,1 PM
+Chicago,Bus,Cloudy,Growing,Monday,17,28,TRUE,FALSE,60,High,5 PM
+New York,Car,Sunny,Stable,Monday,8,59,TRUE,FALSE,49,Medium,8 AM
+New York,Car,Sunny,Stable,Monday,12,57,TRUE,FALSE,50,High,12 PM
+New York,Bus,Rainy,Stable,Tuesday,16,41,FALSE,FALSE,59,High,4 PM
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,62,FALSE,FALSE,46,Low,10 AM
+Los Angeles,Car,Sunny,Stable,Thursday,18,49,TRUE,TRUE,51,Medium,6 PM
+Los Angeles,Truck,Rainy,Declining,Friday,14,37,FALSE,FALSE,69,High,2 PM
+Chicago,Car,Snowy,Stable,Saturday,9,44,FALSE,FALSE,41,Medium,9 AM
+Chicago,Car,Sunny,Growing,Sunday,13,52,TRUE,FALSE,48,Low,1 PM
+Chicago,Bus,Cloudy,Growing,Monday,17,31,TRUE,FALSE,64,High,5 PM
